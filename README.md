@@ -3,8 +3,8 @@ Network Automation using Intent-Based Networking
 
 Table of Content
 1. [Introduction](#introduction)
-2. [Intent-Based Network](#intent-basednetwork)
-3. Intent-Based Network tools
+2. [Intent-Based Network](#intentbasednetwork)
+3. Intent-Based Network tools(#intent)
 4. Network Slice
 5. End-to-End Network Slice
 
