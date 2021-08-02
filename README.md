@@ -5,7 +5,7 @@ Table of Content
 1. [Introduction](#introduction)
 2. [Intent-Based Network](#intent-BasedNetwork)
 3. Intent-Based Network tools(#intent)
-4. [Network Slice](#NetworkSlice)
+4. [Network](#Network)
 5. End-to-End Network Slice
 
 
@@ -17,7 +17,7 @@ IBN works on a loop called building blocks including various stages. The IBN wor
 The third stage is Assurance, stated by Apostolopoulos  [5], assurance using machine learning can expect where the error will occur. It can also identify the saturated path and reroute itself. It can dynamically adapt according to the network congestion to provide the desired outcome. By using a feedback loop that gathers the data to determine if the network is working according to the intent given and can improve the things if not. 
    After the IBN, Huawei[2] introduced Intent – driven network (IDN) which is a similar kind of system to IBN. The IDN has the layer of Network Cloud Engine (NCE) that controls intelligent network control and management. Additionally, the software-defined network (SDN) controllers are integrated into the NCE platform for better efficiency. The operations of translations of intents and the activation stage are dynamically driven. It is also intelligent as it contains the modules of Artificial intelligence and big data analytics. The IDN network system has aimed to develop a future generation network with lifecycle management support, intelligent operation and management, closed-loop, multi-service support, E2E slicing support, and automatic failure and recovery.
 
-## Network Slice
+## Network 
 kdcklmdck;f
 dckmewqlmc 
 ewkc mlm kd
