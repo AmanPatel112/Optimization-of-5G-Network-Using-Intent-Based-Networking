@@ -1,12 +1,11 @@
 # 5G-Network-Optimization-using-Intent-Based-Networking
 Network Automation using Intent-Based Networking
 
-Table of Content
+## Table of Content
 1. [Introduction](#introduction)
-2. [Motivation](#Motivation)
-3. Intent-Based Network tools(#intent)
-4. [Network](#Network)
-5. End-to-End Network Slice
+2. [Motivation](#Motivation). 
+3. [Dataset](#Dataset)
+4. End-to-End Network Slice
 
 
 ## Introduction.
@@ -14,3 +13,5 @@ The automatic control over the network platform is an admired requirement of the
 ## Motivation
 The traditional operation and maintenance management methods are characterized by high labor cost, error probability, backward hauling, and network maintenance methods, and low management efficiency becomes difficult for the Network operators (NOs). To cater to this problem, the network itself should be smart enough to resolve the problem very efficiently. The optimization of the 5G network can be achieved by Intent-based Networking. With the introduction of intent-based networking, the new network can cope with the dynamic and ever-changing demand of the network. The management of the network would be efficient using Intent-Based Networking as it can is to reduce manual administration such as changing configurations, reducing traffic, resource allocation, and implementing security controls.
 
+## Dataset.
+To evaluate the effectiveness and the accuracy of the model I have considered the dataset from the crawdad with the number of nodes, number of timeslices, and the maximum number of traffic. 1https://crawdad.org/ucsb/meshnet/20070201/
