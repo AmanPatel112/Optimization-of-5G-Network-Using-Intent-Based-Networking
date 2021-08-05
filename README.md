@@ -26,6 +26,6 @@ from tensorflow.contrib import rnn
 ```
 ## Roadmap
 ## Results
-![Result](result1.png)
-![Result](result2.png)
+![Result1](result1.png)
+![Result2](result2.png)
 
