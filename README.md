@@ -7,7 +7,7 @@ Network Automation using Intent-Based Networking
 3. [Dataset](#Dataset)
 4. [Roadmap](#Roadmap)
 5. [Results](#Results)
-[Note](#Note)
+\n [Note](#Note)
 
 
 ## Introduction.
