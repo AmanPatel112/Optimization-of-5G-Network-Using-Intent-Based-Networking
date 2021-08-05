@@ -7,7 +7,7 @@ Network Automation using Intent-Based Networking
 3. [Dataset](#Dataset)
 4. [Roadmap](#Roadmap)
 5. [Results](#Results)
-\n [Note](#Note)
+[Note](#Note)
 
 
 ## Introduction.
@@ -17,10 +17,12 @@ The traditional operation and maintenance management methods are characterized b
 
 ## Dataset.
 To evaluate the effectiveness and the accuracy of the model I have considered the dataset from the crawdad with the number of nodes, number of timeslices, and the maximum number of traffic. 1https://crawdad.org/ucsb/meshnet/20070201/
+![Dataset](dataset.png)
 ## Dependencies
 ```
-Tenserflow
-Numpy
+import tensorflow as tf
+import numpy as np
+from tensorflow.contrib import rnn
 
 ```
 ## Roadmap
