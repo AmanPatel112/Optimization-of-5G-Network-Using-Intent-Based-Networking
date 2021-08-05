@@ -7,7 +7,6 @@ Network Automation using Intent-Based Networking
 3. [Dataset](#Dataset)
 4. [Roadmap](#Roadmap)
 5. [Results](#Results)
-[Note](#Note)
 
 
 ## Introduction.
@@ -26,3 +25,7 @@ from tensorflow.contrib import rnn
 
 ```
 ## Roadmap
+## Results
+![Result](result1.png)
+![Result](result2.png)
+
