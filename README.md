@@ -29,11 +29,11 @@ from tensorflow.contrib import rnn
 The fifth generation of mobile technology bonds to increase speed, lower latency, higher capacity, and higher reliability capacity. 5G network will result in several of today’s technologies such as smart cities, connected infrastructure, autonomous driving, seamless virtual, augmented reality, artificial intelligence, and Internet of Machines and Things. According to findings, the 5G network will be optimized using Intent-Based networking(IBN), IBN is developing technology that will help to replace the manual process of configuring the networks, and responding to the networks issues if the network operator will mention the intent of the IBN will execute the task. The huge infrastructure of the 5G network is complex so the slices have been created and on the slices, IBN tools have been deployed.  The standards of network automation are to reduced the human effort and make networks intelligent hence by GAN deep learning module this can be achieved. Additionally, I also want to add the feature of dynamic prediction of the network to formulate the dynamic traffic prediction in the infrastructure to enhance the real-world dynamic network.
 
 
-## Futurework.
-The shortcoming of the study is that the IBN network is very complex as it involves an Artificial intelligence algorithm, so it is prone to make mistakes and it also involves multiple operating systems, environment, and network components. Secondly, the success rate of IBN systems depends on the API as the network's access lies within the API. To overcome the shortcomings and make the IBN work for the 6G network it needs to be changed in many aspects considering integrating with space, ground, and sea communication with AI-based wireless network will play a key role in future network automation and in aspects to optimize the 6G network.
 ## Results
 
 ![Result1](result1.png)
 
 ![Result2](result2.png)
 
+## Futurework.
+The shortcoming of the study is that the IBN network is very complex as it involves an Artificial intelligence algorithm, so it is prone to make mistakes and it also involves multiple operating systems, environment, and network components. Secondly, the success rate of IBN systems depends on the API as the network's access lies within the API. To overcome the shortcomings and make the IBN work for the 6G network it needs to be changed in many aspects considering integrating with space, ground, and sea communication with AI-based wireless network will play a key role in future network automation and in aspects to optimize the 6G network.
