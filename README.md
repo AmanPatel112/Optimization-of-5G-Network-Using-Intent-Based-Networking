@@ -30,7 +30,6 @@ To evaluate the effectiveness and the accuracy of the model I have considered th
 The project Optimization of 5G network using Intent-Based Networking can be implemented by using Pycham IDE. Pycharm can be downloaded by using this [link](https://www.jetbrains.com/help/pycharm/installation-guide.html) and follow the instructions given below.
  
  • Download the Pycharm Community
-
  • Install the .exe file  
  • Open a Network Optimaztion project. 
 
@@ -67,6 +66,7 @@ Secondly, the result of the second study has compared the GAN model with the tra
 
 
 ![Result2](iperfg.jpeg)
+
  I have given the hypothesis that if the Trans-DLR would have used on the core network then the results and accuracy of the resources allocation and deploy would have improved. The advantage of the study and hypothesis mentioned, the abstraction and the isolation of the network will lead to the separation of the logical network components from the network resources and will enhance the performance. Secondly, IBN will system will provide speed and agility to the core network, so the retort time can be increased to meet the intent of the user. The Trans-DLR will provide more stability to the network as the GAN model might collapse but the Trans-DLR will provide enough amount of sample to the discriminator. 
 
 
