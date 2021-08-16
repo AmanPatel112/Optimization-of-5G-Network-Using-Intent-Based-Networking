@@ -5,10 +5,10 @@ Network Automation using Intent-Based Networking
 1. [Introduction](#introduction)
 2. [Motivation](#Motivation). 
 3. [Dataset](#Dataset)
-4. [Roadmap](#Roadmap)
-5. [Hypothesis](#hypothesis)
-5. [FutureWork](#FutureWork)
-5. [Results](#Results)
+4. [Installation](#Installation)
+5. [Hypothesis](#hypothesis) 
+6. [Results](#Results)
+7. [FutureWork](#Future-Work)
 
 
 ## Introduction.
@@ -38,10 +38,13 @@ The automatic control over the network is a very efficient and effective way to 
 
 
 ## Results
+Results sections state that the GAN model used at the network core using IBN tools and slice created according to the user Intent/contract has shown an efficient result. The QoS requirement of slice one as per user intent translated into the contract was specified at 40MB/s downlink speed and 20MB/s uplink speed for eMBB slice, the second slice of IoT had downlink speed of 40MB/s and 20MB/s uplink speed, and for the third slice of URLLC had a downlink of 20MB/s and uplink of 10MB/s. Secondly, the result of the second study has compared the GAN model with the traditional model and the GAN model has outperformed all the traditional models in terms of accuracy and efficiency. 
+
+
 
 ![Result1](result1.png)
 
 ![Result2](iperfg.jpeg)
 
 ## Futurework.
-The shortcoming of the study is that the IBN network is very complex as it involves an Artificial intelligence algorithm, so it is prone to make mistakes and it also involves multiple operating systems, environment, and network components. Secondly, the success rate of IBN systems depends on the API as the network's access lies within the API. To overcome the shortcomings and make the IBN work for the 6G network it needs to be changed in many aspects considering integrating with space, ground, and sea communication with AI-based wireless network will play a key role in future network automation and in aspects to optimize the 6G network.
+The 5G network is still evolving around the globe and testing is under process and the hypothesis given is still on the paper still has not been implemented so the accuracy of the prediction might not be up to the mark. In the future, I will extend my study and implement the Trans-DLR model to compare the accuracy and to deploy it on the core network of the 5G infrastructure. The language unit must be more diverse and the unit of the language should be consequential so that it can able to work in the smaller devices. IBN involves complex operating systems, and network components. The verification and validation module needs to be more precise as the intent of the user will go through this module. 
