@@ -56,7 +56,10 @@ Results sections state that the GAN model used at the network core using IBN too
 
 ![Result1](result1.png)
 
+Secondly, the result of the second study has compared the GAN model with the traditional model and the GAN model has outperformed all the traditional models in terms of accuracy and efficiency. 
+
+
 ![Result2](iperfg.jpeg)
 
-## Futurework.
+## Future Work.
 The 5G network is still evolving around the globe and testing is under process and the hypothesis given is still on the paper still has not been implemented so the accuracy of the prediction might not be up to the mark. In the future, I will extend my study and implement the Trans-DLR model to compare the accuracy and to deploy it on the core network of the 5G infrastructure. The language unit must be more diverse and the unit of the language should be consequential so that it can able to work in the smaller devices. IBN involves complex operating systems, and network components. The verification and validation module needs to be more precise as the intent of the user will go through this module. 
