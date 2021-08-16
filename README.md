@@ -24,6 +24,12 @@ To evaluate the effectiveness and the accuracy of the model I have considered th
 
 ## Installation 
 The project Optimization of 5G network using Intent-Based Networking can be implemented by using Pycham IDE. Pycharm can be downloaded by using this [link](https://www.jetbrains.com/help/pycharm/installation-guide.html) and follow the instructions given below.
+ 
+
+ • Download the Pycharm Community.
+ • Install the .exe file 
+ • Open a new project. 
+
 
 
 
