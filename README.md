@@ -41,7 +41,7 @@ The automatic control over the network is a very efficient and effective way to 
 
 ![Result1](result1.png)
 
-![Result2](iperf.png)
+![Result2](iper.jpeg)
 
 ## Futurework.
 The shortcoming of the study is that the IBN network is very complex as it involves an Artificial intelligence algorithm, so it is prone to make mistakes and it also involves multiple operating systems, environment, and network components. Secondly, the success rate of IBN systems depends on the API as the network's access lies within the API. To overcome the shortcomings and make the IBN work for the 6G network it needs to be changed in many aspects considering integrating with space, ground, and sea communication with AI-based wireless network will play a key role in future network automation and in aspects to optimize the 6G network.
