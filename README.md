@@ -30,6 +30,7 @@ The project Optimization of 5G network using Intent-Based Networking can be impl
  • Install the .exe file 
  • Open a new project. 
 
+ 
 
 
 
