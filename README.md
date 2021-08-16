@@ -7,6 +7,7 @@ Network Automation using Intent-Based Networking
 3. [Dataset](#Dataset)
 4. [Installation](#Installation)
 5. [Hypothesis](#hypothesis) 
+6. [Methodology](#Methodology)
 6. [Results](#Results)
 7. [Future Work](#Future-Work)
 
@@ -37,7 +38,7 @@ The project Optimization of 5G network using Intent-Based Networking can be impl
 
 
 
-## Dependencies
+## Libraries
 ```
 import tensorflow as tf
 import numpy as np
@@ -48,7 +49,10 @@ from tensorflow.contrib import rnn
 ## Hypothesis
 The automatic control over the network is a very efficient and effective way to solve the problem of a fifth-generation network. To make the network automatic many algorithms and have been used prior as the fifth-generation network is still evolving and still needs to make more progress. The previously GCN-GAN algorithm has been used to make the network automatic and lesser prone to network fault and proper network management, But somehow the GAN model can collapse as the generator can cave in and will produce a limited amount of samples for the discriminator. Secondly considering the slice and network infrastructure the GAN model deployed at the core slice might be prone to collapse.  So if, the Trans-DLR (dynamic learning rate) model would have been used at the core network infrastructure then so that DLR can incorporate the knowledge representation learning which can help to adapt the dynamic learning rate with the help of the IBN tools.
 
-## Methods
+## Methodology
+I have collated the study of two models based on the Advanced deep learning module that represents how the Generative Adversarial Nets would help to the dynamic rate of network on the core slice of the network with the help of the IBN tools and will make the network efficient and help the resource allocation very efficient, and the other study is to predict the dynamic traffic rate using GCN-GAN model. 
+
+
 
 
 
@@ -64,5 +68,12 @@ Secondly, the result of the second study has compared the GAN model with the tra
 
 ![Result2](iperfg.jpeg)
 
+SO I have given the hypothesis that if the Trans-DLR would have used on the core network then the results and accuracy of the resources allocation and deploy would have improved. The advantage of the study and hypothesis mentioned, the abstraction and the isolation of the network will lead to the separation of the logical network components from the network resources and will enhance the performance. Secondly, IBN will system will provide speed and agility to the core network, so the retort time can be increased to meet the intent of the user. The Trans-DLR will provide more stability to the network as the GAN model might collapse but the Trans-DLR will provide enough amount of sample to the discriminator. 
+
+
 ## Future Work.
 The 5G network is still evolving around the globe and testing is under process and the hypothesis given is still on the paper still has not been implemented so the accuracy of the prediction might not be up to the mark. In the future, I will extend my study and implement the Trans-DLR model to compare the accuracy and to deploy it on the core network of the 5G infrastructure. The language unit must be more diverse and the unit of the language should be consequential so that it can able to work in the smaller devices. IBN involves complex operating systems, and network components. The verification and validation module needs to be more precise as the intent of the user will go through this module. 
+
+## Note.
+
+I have done comparative studies of Network optimization and given my hypothesis for the presented study. The results displayed are not mine, as I was not able to implement it on the real infrastructure, and extraction of the dataset was difficult. The implementation of the code has been referenced from the [GitHub Repository](https://github.com/yanghaoxie/GCN-GAN-for-Weighted-Dynamic-Networks)
