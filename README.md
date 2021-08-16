@@ -27,6 +27,7 @@ The project Optimization of 5G network using Intent-Based Networking can be impl
  
 
  • Download the Pycharm Community
+ 
  • Install the .exe file  
  • Open a Network Optimaztion project. 
 
