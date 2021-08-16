@@ -22,6 +22,10 @@ The traditional operation and maintenance management methods are characterized b
 To evaluate the effectiveness and the accuracy of the model I have considered the dataset from the crawdad with the number of nodes, number of timeslices, and the maximum number of traffic. 1https://crawdad.org/ucsb/meshnet/20070201/
 ![Dataset](dataset.png)
 
+## Installation 
+The project Optimization of 5G network using Intent-Based Networking can be implemented by using Pycham IDE. Pycharm can be downloaded by using this link(https://www.jetbrains.com/help/pycharm/configuring-project-and-ide-settings.html) and follow the instructions given below.
+
+
 
 ## Dependencies
 ```
@@ -30,11 +34,12 @@ import numpy as np
 from tensorflow.contrib import rnn
 
 ```
-## Roadmap
-The fifth generation of mobile technology bonds to increase speed, lower latency, higher capacity, and higher reliability capacity. 5G network will result in several of today’s technologies such as smart cities, connected infrastructure, autonomous driving, seamless virtual, augmented reality, artificial intelligence, and Internet of Machines and Things. According to findings, the 5G network will be optimized using Intent-Based networking(IBN), IBN is developing technology that will help to replace the manual process of configuring the networks, and responding to the networks issues if the network operator will mention the intent of the IBN will execute the task. The huge infrastructure of the 5G network is complex so the slices have been created and on the slices, IBN tools have been deployed.  The standards of network automation are to reduced the human effort and make networks intelligent hence by GAN deep learning module this can be achieved. Additionally, I also want to add the feature of dynamic prediction of the network to formulate the dynamic traffic prediction in the infrastructure to enhance the real-world dynamic network.
 
 ## Hypothesis
 The automatic control over the network is a very efficient and effective way to solve the problem of a fifth-generation network. To make the network automatic many algorithms and have been used prior as the fifth-generation network is still evolving and still needs to make more progress. The previously GCN-GAN algorithm has been used to make the network automatic and lesser prone to network fault and proper network management, But somehow the GAN model can collapse as the generator can cave in and will produce a limited amount of samples for the discriminator. Secondly considering the slice and network infrastructure the GAN model deployed at the core slice might be prone to collapse.  So if, the Trans-DLR (dynamic learning rate) model would have been used at the core network infrastructure then so that DLR can incorporate the knowledge representation learning which can help to adapt the dynamic learning rate with the help of the IBN tools.
+
+## Methods
+
 
 
 ## Results
