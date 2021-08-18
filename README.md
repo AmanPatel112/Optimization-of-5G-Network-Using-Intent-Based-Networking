@@ -40,6 +40,13 @@ The project Optimization of 5G network using Intent-Based Networking can be impl
 
 
 ## Libraries
+
+**Package needs to install before running**
+
+```
+pip install tensorflow
+
+```
 ```
 import tensorflow as tf
 import numpy as np
