@@ -77,7 +77,7 @@ The 5G network is still evolving around the globe and testing is under process a
 
 ## Note.
 
-I have done comparative studies of Network optimization and given my hypothesis for the presented study. The results displayed are not mine, as I was not able to implement it on the real infrastructure, and extraction of the dataset was difficult. The implementation of the code has been referenced from the [GitHub Repository](https://github.com/yanghaoxie/GCN-GAN-for-Weighted-Dynamic-Networks)
+I have done comparative studies of Network optimization and given my hypothesis for the presented study. The results displayed are not mine, as I was not able to implement it on the real infrastructure, and I was not able to extract the dataset. The implementation of the code has been referenced from the [GitHub Repository](https://github.com/yanghaoxie/GCN-GAN-for-Weighted-Dynamic-Networks)
 
 Contact [Aman Patel](mailto:apatel85@lakeheadu.ca?subject=[GitHub]%20Source%20Han%20Sans)
 
