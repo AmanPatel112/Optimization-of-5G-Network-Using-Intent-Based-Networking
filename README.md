@@ -9,7 +9,7 @@ Network Automation using Intent-Based Networking
 5. [Hypothesis](#hypothesis) 
 6. [Methodology](#Methodology)
 6. [Results](#Results)
-7. [Future Work](#Future-Work)
+7. [Road map](#Road-map)
 
 
 ## Overview.
@@ -72,7 +72,7 @@ Secondly, the result of the second study has compared the GAN model with the tra
  I have given the hypothesis that if the Trans-DLR would have used on the core network then the results and accuracy of the resources allocation and deploy would have improved. The advantage of the study and hypothesis mentioned, the abstraction and the isolation of the network will lead to the separation of the logical network components from the network resources and will enhance the performance. Secondly, IBN will system will provide speed and agility to the core network, so the retort time can be increased to meet the intent of the user. The Trans-DLR will provide more stability to the network as the GAN model might collapse but the Trans-DLR will provide enough amount of sample to the discriminator. 
 
 
-## Future Work.
+## Road map.
 The 5G network is still evolving around the globe and testing is under process and the hypothesis given is still on the paper still has not been implemented so the accuracy of the prediction might not be up to the mark. In the future, I will extend my study and implement the Trans-DLR model to compare the accuracy and to deploy it on the core network of the 5G infrastructure. The language unit must be more diverse and the unit of the language should be consequential so that it can able to work in the smaller devices. IBN involves complex operating systems, and network components. The verification and validation module needs to be more precise as the intent of the user will go through this module. 
 
 ## Note.
