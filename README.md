@@ -19,14 +19,14 @@ The automatic control over the network platform is an admired requirement of the
  ![IBN model](ibn.jpeg)
 
 
-## Motivation
+## Motivation.
 The traditional operation and maintenance management methods are characterized by high labor cost, error probability, backward hauling, and network maintenance methods, and low management efficiency becomes difficult for the Network operators (NOs). To cater to this problem, the network itself should be smart enough to resolve the problem very efficiently. The optimization of the 5G network can be achieved by Intent-based Networking. With the introduction of intent-based networking, the new network can cope with the dynamic and ever-changing demand of the network. The management of the network would be efficient using Intent-Based Networking as it can is to reduce manual administration such as changing configurations, reducing traffic, resource allocation, and implementing security controls.
 
 ## Dataset.
-To evaluate the effectiveness and the accuracy of the model I have considered the dataset from the crawdad with the number of nodes, number of timeslices, and the maximum number of traffic. 1https://crawdad.org/ucsb/meshnet/20070201/
+To evaluate the effectiveness and the accuracy of the model I have considered the dataset from the crawdad with the number of nodes, number of timeslices, and the maximum number of traffic. https://crawdad.org/ucsb/meshnet/20070201/
 ![Dataset](dataset.png)
 
-## Installation 
+## Installation. 
 The project Optimization of 5G network using Intent-Based Networking can be implemented by using Pycham IDE. Pycharm can be downloaded by using this [link](https://www.jetbrains.com/help/pycharm/installation-guide.html) and follow the instructions given below.
  
  • Download the Pycharm Community
@@ -39,7 +39,7 @@ The project Optimization of 5G network using Intent-Based Networking can be impl
 
 
 
-## Libraries
+## Libraries.
 
 **Package needs to install before running**
 
@@ -55,17 +55,17 @@ from tensorflow.contrib import rnn
 
 ```
 
-## Hypothesis
+## Hypothesis.
 The automatic control over the network is a very efficient and effective way to solve the problem of a fifth-generation network. To make the network automatic many algorithms and have been used prior as the fifth-generation network is still evolving and still needs to make more progress. The previously GCN-GAN algorithm has been used to make the network automatic and lesser prone to network fault and proper network management, But somehow the GAN model can collapse as the generator can cave in and will produce a limited amount of samples for the discriminator. Secondly considering the slice and network infrastructure the GAN model deployed at the core slice might be prone to collapse.  So if, the Trans-DLR (dynamic learning rate) model would have been used at the core network infrastructure then so that DLR can incorporate the knowledge representation learning which can help to adapt the dynamic learning rate with the help of the IBN tools.
 
-## Methodology
+## Methodology.
 I have collated the study of two models based on the Advanced deep learning module that represents how the Generative Adversarial Nets would help to the dynamic rate of network on the core slice of the network with the help of the IBN tools and will make the network efficient and help the resource allocation very efficient, and the other study is to predict the dynamic traffic rate using GCN-GAN model. 
 
 
 
 
 
-## Results
+## Results.
 Results sections state that the GAN model used at the network core using IBN tools and slice created according to the user Intent/contract has shown an efficient result. The QoS requirement of slice one as per user intent translated into the contract was specified at 40MB/s downlink speed and 20MB/s uplink speed for eMBB slice, the second slice of IoT had downlink speed of 40MB/s and 20MB/s uplink speed, and for the third slice of URLLC had a downlink of 20MB/s and uplink of 10MB/s. Secondly, the result of the second study has compared the GAN model with the traditional model and the GAN model has outperformed all the traditional models in terms of accuracy and efficiency. 
 
 
